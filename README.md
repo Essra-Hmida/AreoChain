@@ -1,7 +1,7 @@
 # ✈️ Application d’AéroChain sur Blockchain Ethereum
 ## 📜 Contexte du Projet
 
-Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Claude Duvallet**.
+Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Mr.Claude Duvallet**.
 
 Année universitaire : **2025-2026**
 
