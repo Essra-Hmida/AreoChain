@@ -10,7 +10,6 @@ Il a été conçu pour démontrer comment **la technologie blockchain et les sma
 L’**Application d’Assurance Vol sur Blockchain Ethereum** illustre une intégration pratique de la **finance décentralisée (DeFi)** dans le secteur de l’assurance, garantissant transparence, sécurité et automatisation.
 
 
----
 ### 👩‍💻 Réalisé par 
 - **Mabrouka Messaoudi** 
   Email: mabroukamessaoudi897@gmail.com  
