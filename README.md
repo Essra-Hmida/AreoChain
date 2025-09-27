@@ -1,3 +1,4 @@
+# ✈️ Application d’Assurance Vol sur Blockchain Ethereum
 ## 📜 Contexte du Projet
 
 Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Claude Duvallet**.
@@ -11,9 +12,12 @@ L’**Application d’Assurance Vol sur Blockchain Ethereum** illustre une inté
 
 ---
 ### 👩‍💻 Réalisé par 
-- **Mabrouka Messaoudi** – mabroukamessaoudi897@gmail.com  
-- **Essra Hmida** – hmidaesraa@gmail.com 
-- **Hana Kanoun** – kanounhana6@gmail.com 
+- **Mabrouka Messaoudi** 
+  Email: mabroukamessaoudi897@gmail.com  
+- **Essra Hmida**
+  Email: hmidaesraa@gmail.com
+- **Hana Kanoun** 
+  Email: kanounhana6@gmail.com
 ---
 ## 🚀 Description du Projet
 L’**Application d’Assurance Vol sur Blockchain Ethereum** permet :
