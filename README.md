@@ -2,9 +2,6 @@
 ## 📜 Contexte du Projet
 
 Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Mr.Claude Duvallet**.
-
-Année universitaire : **2025-2026**
-
 Il a été conçu pour démontrer comment **la technologie blockchain et les smart contracts Ethereum** peuvent être utilisés dans le domaine de l’**assurance des vols aériens**, en automatisant la gestion des indemnisations en cas de retard ou d’annulation.
 
 L’**Application d’AéroChain sur Blockchain Ethereum** illustre une intégration pratique de la **finance décentralisée (DeFi)** dans le secteur de l’assurance, garantissant transparence, sécurité et automatisation.
@@ -141,3 +138,5 @@ npm start
 Ce projet est sous licence **MIT**.  
 Vous êtes libre de l’utiliser, de le modifier et de le distribuer sous réserve de mentionner les auteurs.
  
+---
+**Année universitaire :** 2025-2026
