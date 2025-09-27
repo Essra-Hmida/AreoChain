@@ -1,5 +1,3 @@
----
-
 ## 📜 Contexte du Projet
 
 Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Claude Duvallet**.
