@@ -1,36 +1,22 @@
-# 🇹🇳 République Tunisienne  
-## Ministère de l’Enseignement Supérieur et de la Recherche Scientifique  
-### Université de Sfax – Faculté des Sciences de Sfax  
-
 ---
 
-# 📄 Rapport du Projet Blockchain  
-## Application d’Assurance Vol sur Blockchain Ethereum
+## 📜 Contexte du Projet
+
+Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la **Faculté des Sciences de Sfax**, sous la supervision de **Claude Duvallet**.
+
+Année universitaire : **2025-2026**
+
+Il a été conçu pour démontrer comment **la technologie blockchain et les smart contracts Ethereum** peuvent être utilisés dans le domaine de l’**assurance des vols aériens**, en automatisant la gestion des indemnisations en cas de retard ou d’annulation.
+
+L’**Application d’Assurance Vol sur Blockchain Ethereum** illustre une intégration pratique de la **finance décentralisée (DeFi)** dans le secteur de l’assurance, garantissant transparence, sécurité et automatisation.
+
 
 ---
-
 ### 👩‍💻 Réalisé par 
 - **Mabrouka Messaoudi** – mabroukamessaoudi897@gmail.com  
 - **Essra Hmida** – hmidaesraa@gmail.com 
 - **Hana Kanoun** – kanounhana6@gmail.com 
-
-### 👨‍🏫 Encadrant  
-- **Claude Duvallet**
-
-### 📅 Année Universitaire  
-**2025-2026**
-
 ---
-
-## 📘 Contexte du Projet
-Ce projet s’inscrit dans le cadre du module **Blockchain** au sein de la Faculté des Sciences de Sfax.  
-
-Il a été conçu pour démontrer comment **la technologie blockchain et les smart contracts Ethereum** peuvent être utilisés dans le domaine de l’**assurance des vols aériens**, en automatisant la gestion des indemnisations en cas de retard ou d’annulation.  
-
-L’**Application d’Assurance Vol sur Blockchain Ethereum** illustre une intégration pratique de la **finance décentralisée (DeFi)** dans le secteur de l’assurance, garantissant transparence, sécurité et automatisation.
-
----
-
 ## 🚀 Description du Projet
 L’**Application d’Assurance Vol sur Blockchain Ethereum** permet :
 - L’achat de billets d’avion.
